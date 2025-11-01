@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Millie_Travel_and_Beyond/static/css/main.637dbcc1.css",
-    "main.js": "/Millie_Travel_and_Beyond/static/js/main.0a6d4e7e.js",
+    "main.js": "/Millie_Travel_and_Beyond/static/js/main.5bd1ddbc.js",
     "static/js/453.10f2da7e.chunk.js": "/Millie_Travel_and_Beyond/static/js/453.10f2da7e.chunk.js",
     "index.html": "/Millie_Travel_and_Beyond/index.html",
     "main.637dbcc1.css.map": "/Millie_Travel_and_Beyond/static/css/main.637dbcc1.css.map",
-    "main.0a6d4e7e.js.map": "/Millie_Travel_and_Beyond/static/js/main.0a6d4e7e.js.map",
+    "main.5bd1ddbc.js.map": "/Millie_Travel_and_Beyond/static/js/main.5bd1ddbc.js.map",
     "453.10f2da7e.chunk.js.map": "/Millie_Travel_and_Beyond/static/js/453.10f2da7e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.637dbcc1.css",
-    "static/js/main.0a6d4e7e.js"
+    "static/js/main.5bd1ddbc.js"
   ]
 }
