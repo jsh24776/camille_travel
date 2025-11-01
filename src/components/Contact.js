@@ -47,7 +47,7 @@ const Contact = () => {
     {
       icon: MapPin,
       title: "Visit Us",
-      value: "123 Travel Street, Adventure City, AC 12345"
+      value: "Ember Road, Brgy. San Isidro, Cainta, Rizal",
     }
   ];
 

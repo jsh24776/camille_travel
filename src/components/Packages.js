@@ -7,7 +7,7 @@ import { Calendar, Check, ArrowRight } from "lucide-react";
 const packages = [
   {
     name: "Luxury Escape",
-    price: "$4,999",
+    price: "₱60,999",
     duration: "10 Days",
     includes: [
       "5-Star Hotel Accommodations",
@@ -22,7 +22,7 @@ const packages = [
   },
   {
     name: "Adventure Seeker",
-    price: "$3,499",
+    price: "₱32,499",
     duration: "14 Days",
     includes: [
       "Premium Hotel Stays",
@@ -37,7 +37,7 @@ const packages = [
   },
   {
     name: "Cultural Immersion",
-    price: "$2,999",
+    price: "₱25,999",
     duration: "8 Days",
     includes: [
       "Boutique Hotels",

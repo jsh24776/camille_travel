@@ -9,7 +9,7 @@ const destinations = [
   {
     name: "Santorini, Greece",
     img: "https://images.unsplash.com/photo-1570077188670-e3a8d69ac5ff?w=800",
-    price: "$2,499",
+    price: "₱52,499",
     duration: "7 days",
     rating: 4.9,
     description: "Experience stunning sunsets and white-washed architecture"
@@ -17,7 +17,7 @@ const destinations = [
   {
     name: "Bali, Indonesia",
     img: "https://images.unsplash.com/photo-1537953773345-d172ccf13cf1?w=800",
-    price: "$1,899",
+    price: "₱18,899",
     duration: "10 days",
     rating: 4.8,
     description: "Tropical paradise with rich culture and beautiful beaches"
@@ -25,7 +25,7 @@ const destinations = [
   {
     name: "Kyoto, Japan",
     img: "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=800",
-    price: "$2,799",
+    price: "₱25,799",
     duration: "8 days",
     rating: 4.9,
     description: "Ancient temples and traditional gardens await"
